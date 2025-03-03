@@ -4,6 +4,7 @@
 This project is designed for practicing environment art in Unity, focusing on creating my dream home. Through this project, I aim to enhance my skills in:
 
 - **Stylized textures**
+- **Enviroment Art**
 - **Organized file structure**
 - **Cinematic lighting**
 - **Camera movement**
