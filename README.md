@@ -18,28 +18,35 @@ This project is designed for practicing environment art in Unity, focusing on cr
 
 ## Tools & Software
 - **Unity** (for environment setup and animation)
-- **Blender/Maya** (for 3D modeling)
+- **Blender** (for 3D modeling)
 - **Substance Painter** (for texture creation)
 - **Photoshop** (for additional texture detailing)
 
 ## Git Repository Structure
 ```
-📂 DreamHomeProject
- ├── 📂 Assets
- │   ├── 📂 Scenes
- │   ├── 📂 Models
- │   ├── 📂 Textures
- │   ├── 📂 Materials
- │   ├── 📂 Prefabs
- │   ├── 📂 Animations
- │   └── 📂 Scripts
- ├── 📂 ProjectSettings
- ├── 📂 Packages
- ├── 📜 README.md
- ├── 📜 .gitignore
-```
+┣ 📂 Art  
+ ┃ ┣ 📂 Models  
+ ┃ ┃ ┣ 📂 Characters  
+ ┃ ┃ ┣ 📂 Environment  
+ ┃ ┃ ┣ 📂 Props  
+ ┃ ┣ 📂 Textures  
+ ┃ ┃ ┣ 📂 Characters  
+ ┃ ┃ ┣ 📂 Environment  
+ ┃ ┃ ┣ 📂 Props  
+ ┃ ┣ 📂 Materials  
+ ┃ ┃ ┣ 📂 Characters  
+ ┃ ┃ ┣ 📂 Environment  
+ ┃ ┃ ┣ 📂 Props  
+ ┃ ┣ 📂 Animations  
+ ┃ ┣ 📂 Shaders  
+ ┣ 📂 Prefabs  
+ ┃ ┣ 📂 Characters  
+ ┃ ┣ 📂 Environment  
+ ┃ ┣ 📂 Props  
+ ┣ 📂 Scenes  
 
-## .gitignore Best Practices
+
+
 To keep the repository clean, the following files will be ignored:
 - **Library/**
 - **Temp/**
